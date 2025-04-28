@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rick Roll Again</title>
+<style>
+body {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+background-color: #fefefe;
+font-family: Arial, sans-serif;
+}
+img {
+max-width: 90%;
+height: auto;
+border-radius: 10px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+h1 {
+margin-top: 20px;
+font-size: 2em;
+color: #222;
+text-align: center;
+}
+</style>
+</head>
+<body>
+<img src="https://upload.wikimedia.org/wikipedia/en/7/70/Rick_Astley_-_Never_Gonna_Give_You_Up.png" alt="Rick Astley">
+<h1>i rick rolled you again</h1>
+</body>
+</html>
